@@ -17,7 +17,7 @@ Le challenge principal est de bien respecter la norme, de travailler en équipe,
 
 ## Project progress:
 - [ ] `main.c`
-- [ ] `ft_putchar.c`
+- [X] `ft_putchar.c`
 - [ ] `rush00.c`
 
 ### Compilation
