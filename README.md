@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet est le tout premier rush de la piscine C à 42, le sujet Rush00 du sujet sera traité.  
+Ce projet est le tout premier rush de la piscine C à 42, la partie 00 du sujet sera traitée.  
 Le but : écrire un programme capable d’afficher à l’écran un rectangle ou un carré avec des caractères précis, selon des dimensions données en argument.  
 Le challenge principal est de bien respecter la norme, de travailler en équipe, et de structurer son code dès le départ !
 
@@ -14,6 +14,17 @@ Le challenge principal est de bien respecter la norme, de travailler en équipe,
 
 ## Utilisation
 //TODO
+
+## Project progress:
+- [ ] `main.c`
+- [ ] `ft_putchar.c`
+- [ ] `rush00.c`
+
+## Contributors:
+>[Baptiste Perrot](https://profile-v3.intra.42.fr/users/baperrot)
+>[Gabriel Blanchard](https://profile-v3.intra.42.fr/users/gablanch)
+>[Simon Ayrault](https://profile-v3.intra.42.fr/users/sayrault)
+>[Julien Brousse](https://profile-v3.intra.42.fr/users/jubrouss)
 
 ### Compilation
 
