@@ -2,7 +2,7 @@
 
 ## Présentation
 
-Ce projet est le tout premier rush de la piscine C à 42.  
+Ce projet est le tout premier rush de la piscine C à 42, le sujet Rush00 du sujet sera traité.  
 Le but : écrire un programme capable d’afficher à l’écran un rectangle ou un carré avec des caractères précis, selon des dimensions données en argument.  
 Le challenge principal est de bien respecter la norme, de travailler en équipe, et de structurer son code dès le départ !
 
