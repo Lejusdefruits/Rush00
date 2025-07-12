@@ -6,7 +6,7 @@
 /*   By: jubrouss <jubrouss@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/12 12:38:20 by lejusdefrui       #+#    #+#             */
-/*   Updated: 2025/07/12 18:47:45 by jubrouss         ###   ########.fr       */
+/*   Updated: 2025/07/12 19:27:15 by jubrouss         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -25,7 +25,6 @@ void ft_print_str(char *str, int diff)
 	if (diff != 0)
 		write(1, &(char){'\n'}, 1);
 }
-// }
 int is_corner(int colonne, int ligne, int x, int y)
 {
 	if (colonne == 1 && ligne == 1)
