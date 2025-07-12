@@ -3,12 +3,14 @@
 /*                                                        :::      ::::::::   */
 /*   ft_putchar.c                                       :+:      :+:    :+:   */
 /*                                                    +:+ +:+         +:+     */
-/*   By: lejusdefruits <lejusdefruits@student.42    +#+  +:+       +#+        */
+/*   By: jubrouss <jubrouss@student.42.fr>          +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/07/12 12:38:22 by lejusdefrui       #+#    #+#             */
-/*   Updated: 2025/07/12 12:39:51 by lejusdefrui      ###   ########.fr       */
+/*   Updated: 2025/07/12 17:51:25 by jubrouss         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+
+#include <unistd.h>
 
 void ft_putchar(char c)
 {
