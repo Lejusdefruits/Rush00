@@ -20,15 +20,15 @@ Le challenge principal est de bien respecter la norme, de travailler en équipe,
 - [ ] `ft_putchar.c`
 - [ ] `rush00.c`
 
-## Contributors:
->[Baptiste Perrot](https://profile-v3.intra.42.fr/users/baperrot)
->[Gabriel Blanchard](https://profile-v3.intra.42.fr/users/gablanch)
->[Simon Ayrault](https://profile-v3.intra.42.fr/users/sayrault)
->[Julien Brousse](https://profile-v3.intra.42.fr/users/jubrouss)
-
 ### Compilation
 
 Pour compiler le projet, lancez :
 
 ```sh
 cc -Wall -Wextra -Werror main.c ft_putchar.c rush00.c -o rush00
+```
+## Contributors:
+>[Baptiste Perrot](https://profile-v3.intra.42.fr/users/baperrot) | 
+>[Gabriel Blanchard](https://profile-v3.intra.42.fr/users/gablanch) | 
+>[Simon Ayrault](https://profile-v3.intra.42.fr/users/sayrault) | 
+>[Julien Brousse](https://profile-v3.intra.42.fr/users/jubrouss)
