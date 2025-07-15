@@ -12,13 +12,11 @@ Le challenge principal est de bien respecter la norme, de travailler en équipe,
 - `ft_putchar.c` : contient la fonction utilitaire `ft_putchar` (affiche un caractère à l'écran, à l'aide de `write`).
 - `rush00.c` : contient la fonction principale `rush`, qui génère et affiche le rectangle selon les consignes.
 
-## Utilisation
-//TODO
 
 ## Project progress:
-- [ ] `main.c`
+- [X] `main.c`
 - [X] `ft_putchar.c`
-- [ ] `rush00.c`
+- [X] `rush00.c`
 
 ### Compilation
 
